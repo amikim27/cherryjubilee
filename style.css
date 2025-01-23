@@ -8,11 +8,14 @@ body {
 
 h1 {
   font-weight:900;
-  font-size:20pt;
+  font-size:40pt;
   color:#000000;
 }
 
-p{font-weight:300;}
+p{
+  font-weight:300;
+  font-size:15pt;
+}
 
 .warning-content {
 	position:absolute;
@@ -22,6 +25,4 @@ p{font-weight:300;}
   text-align:center;
   margin:0;
   
-  
 }
-
